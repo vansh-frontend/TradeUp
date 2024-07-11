@@ -1,5 +1,3 @@
-![image](https://github.com/vansh-frontend/TradeUp/assets/129588751/3decac61-1d7e-4384-93c5-1f16f1c352eb)<div align="center">
-
   <h2 align="center">Cryptex - Cryptocurrency Website</h2>
 
 Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
