@@ -13,6 +13,10 @@ Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all d
 ### Demo Screeshots
 
 ![image](https://github.com/vansh-frontend/TradeUp/assets/129588751/9272a950-d800-4ce2-877c-e7d3642e2fb8)
+<<<<<<< HEAD
+=======
+
+>>>>>>> a2948376df55a11ff8ffa075260d64dcdd548bc9
 
 ### Prerequisites
 
