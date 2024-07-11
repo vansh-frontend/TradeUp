@@ -1,9 +1,10 @@
-<div>
-                  <h2 align="center">Cryptex - Cryptocurrency Website</h2>
+<div align="center">
 
-          Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  <h2 align="center">Cryptex - Cryptocurrency Website</h2>
 
-              <a href="https://stocknest.netlify.app/"><strong>➥ Live Demo</strong></a>
+Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+
+<a href="https://vanshking.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -11,8 +12,7 @@
 
 ### Demo Screeshots
 
-![image](https://github.com/vansh-frontend/TradeUp/assets/129588751/f4a694a5-d1c5-4681-9458-87dfbac0f0ea)
-
+![image](https://github.com/vansh-frontend/stocks-site/assets/129588751/c91f002c-abea-4f00-ad22-c011b0f9a97d)
 
 ### Prerequisites
 
