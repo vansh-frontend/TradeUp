@@ -4,7 +4,7 @@
 
 Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-<a href="https://vanshking.netlify.app/"><strong>➥ Live Demo</strong></a>
+<a href="https://stocknest.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -12,7 +12,7 @@ Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all d
 
 ### Demo Screeshots
 
-![image](https://github.com/vansh-frontend/stocks-site/assets/129588751/c91f002c-abea-4f00-ad22-c011b0f9a97d)
+![image](https://github.com/vansh-frontend/TradeUp/assets/129588751/9272a950-d800-4ce2-877c-e7d3642e2fb8)
 
 ### Prerequisites
 
