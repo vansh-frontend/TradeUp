@@ -1,0 +1,4 @@
+fas (Font Awesome Solid): This is used for solid icons, which are filled.
+far (Font Awesome Regular): This is used for regular icons, which are outlined.
+fal (Font Awesome Light): This is used for light icons, which have thinner outlines.
+fab (Font Awesome Brands): This is used for brand icons, which represent various brands and 
