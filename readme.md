@@ -34,7 +34,7 @@ Windows:
 
 ```bash
 git clone https://github.com/vansh-frontend/stocks-site
-
+```
 ### Contact
 
 If you want to contact with me you can reach me at [Linkedin](https://www.linkedin.com/in/vansh-dhalor-000a7524a/).
