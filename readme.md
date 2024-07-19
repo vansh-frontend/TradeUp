@@ -10,11 +10,15 @@ Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all d
 
 <br />
 
-### Demo Screeshots
+### age calculator
 
 ![image](https://github.com/vansh-frontend/TradeUp/assets/129588751/9272a950-d800-4ce2-877c-e7d3642e2fb8)
 
+### Demo Screeshots
+https://github.com/user-attachments/assets/a0c796f5-7960-49c4-9e5c-0e317f7b0691
+
 ### Prerequisites
+
 
 Before you begin, ensure you have met the following requirements:
 
@@ -28,6 +32,10 @@ Linux and macOS:
 
 ```bash
 sudo git clone https://github.com/vansh-frontend/stocks-site
+
+
+
+
 ```
 
 Windows:
